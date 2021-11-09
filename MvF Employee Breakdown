@@ -1,5 +1,5 @@
 ##Create a statement that provides a breakdown between the male and female employees working in the company each year, starting from 1990. 
-##Navigate to https://public.tableau.com/app/profile/deondre6115/viz/Book1_16354330035570/Chart1 for visualization  of statement via tableau
+##Navigate to https://public.tableau.com/app/profile/deondre6115/viz/Book1_16354330035570/Chart1 for visualization of statement via tableau
 
 select 
   year(de.from_date) as calendar_year, 
